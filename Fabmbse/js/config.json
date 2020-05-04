@@ -1,0 +1,17 @@
+{
+	"Common":{
+		"Wallet": "wallet",
+		"OrganisationMSP": "Org1MSP"
+	},
+	"adminEnroll": {
+		"CAauth": "ca.org1.example.com",
+		"Wallet": "wallet",
+		"adminIdentity": "admin",
+		"adminSecret": "adminpw"
+	},
+	"regisUser": {
+		"userIdentity":"user1",
+		"Role":"client",
+		"Affiliation": "org1.department1"
+	}
+}

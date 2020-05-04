@@ -1,0 +1,8 @@
+{	
+"zero":{"selector":{"{1}":"{2}"}}, 
+"one":{"selector":{"OrgId":"{1}"}},
+"two":{"selector":{"Author": "Joses"}},
+"three":{"selector":{"Approval": {"ApprovalStatus":"disapproved"}}},
+"four":{"selector":{"Top":{"nest1": {"nest2":"value"}}}},
+"five":{"selector":{"everything":{"$exists": false}}}
+}

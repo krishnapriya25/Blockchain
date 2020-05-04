@@ -1,0 +1,23 @@
+{    "ModelId": "36ff46e9-23ce-4e1d-96c4-d2f91f802c2b",
+     "ModelName": "Gatway_01",
+     "OrgId": "Org1",
+     "ProjId" : "Proj1",
+     "PrescribedComponentList": [
+          {
+           "PCId": "d1b993a2-2dbc-4bc2-83de-7512b84cdcac",
+           "PCName": "PC_1",
+           "ChildrenPCList": [
+               {"PCId": "d9d6f299-e653-4e54-bc92-88842806542e",
+                "PCName": "PC_3",
+                "CompId": "245ce3b2-5925-4dcb-a02a-e124809f27ff"},
+               {"PCId": "633931e4-a370-4158-b85e-e615a4c4ef1c",
+                "PCName": "PC_4",
+                "CompId": "9a1cc8a9-2df6-47a0-bd79-8d65477afbba"}
+           ],
+           "CompId": "983c977e-efb9-44be-853c-384b5fe6ad2b"
+           },
+          {"PCId": "f5884815-8d86-4ec4-bf4e-8023403a2290",
+           "PCName": "PC_2",
+           "CompId": "f0c728dd-c39a-4bb6-90eb-476f28e0c941"}
+   ]
+}

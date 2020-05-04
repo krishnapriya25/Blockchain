@@ -1,0 +1,47 @@
+{
+  "CompId": "fc66f313-bae1-4640-8610-9e550a987274",
+  "ComponentName": "Component_#3",
+  "ModelId": "0fd903ad-a292-4cfe-b590-d899437bc300",
+  "ParentCompId": "e5ab777f-3dac-428c-899f-ab731e2dd717",
+  "RelatedToComponents": [{
+      "ToCompId": "112ced50-f6ed-4c80-8cd5-058d3b756800",
+      "ToCompType": "implemented by",
+      "Description": "Component #10 is implemented by Component #5"
+    },
+    {
+      "ToCompId": "56f4b7d6-c70e-4c97-86fa-0b753fce316e",
+      "ToCompType": "uses",
+      "Description": "Component #2 is being used by Component #14"
+    }
+  ],
+  "AssetStorage": {
+    "StorageMethod": "direct",
+    "IPFSName": null,
+    "AssetIPFSAddress": null,
+    "IsEncrypted": true,
+    "IPFSFileEncMethod": null,
+    "IPFSFileEncKey": null,
+    "AssetRaw": "00110000110011",
+    "SourceType": "mdzip",
+    "SourceName": "uhcl_local",
+    "SourceFileName": "gateway/proto1/power/comp1/part32/subpart112.mdzip",
+    "StartTime": "2020-01-25T00:43:34.183Z"
+  },
+  "Author": "Joses",
+  "ReleaseTime": "2020-01-30T15:47:54.280Z",
+  "Version": "2.17.8",
+  "Subversion": "1.5.89",
+  "ComponentStatus": {
+    "ComponentStatus": "in_model",
+    "StatusInfo": "2020-02-18T03:53:34.183Z"
+  },
+  "Approval": {
+    "ApprovalStatus": "disapproved",
+    "ApprovalTime": "2020-02-20T20:30:52.280Z",
+    "Approver": "Yue",
+    "StatusUpdateRequestor": "Kayaan",
+    "StatusUpdateTo": "approved as written",
+    "StatusUpdateRequestTime": "2020-02-26T12:34:34.183Z"
+  }
+
+}
